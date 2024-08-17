@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Favour-325
 - 👀 I’m interested in music ♬ 
-- 🌱 I’m currently learning Python, Web Dev, C and C++
+- 🌱 Python is my language.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me: favoureyong6@gmail.com
 - 😄 Pronouns: e.w3_25
